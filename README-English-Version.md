@@ -6,7 +6,7 @@
 
 My name is __Abner__, I'm 36 years old, I'm married, I have no kids, I'm christian, non smoker and music is my hobby.
 
-I'm a multi-tasking professional with solid career in Highly complex Equipment service support. I've worked for great multinational companies over the last 19 years, and now I'm pivoting my career to Software Developer. As the first step, I'm focusing in the Front-end development, however afterwards, in the near future, I'd like to work as a Full Stack Developer. I'm willing to learn, teach, share my expertise and knowledge and contribute with the *Dev* community. 
+I'm a multi-tasking professional with solid career in Highly complex Equipment service support. I've worked for great multinational companies over the last 19 years, and now I'm pivoting my career to Software Developer. As the first step, I'm focusing in the Front-end development, however afterwards, in the near future, I'd like to work as a Full Stack Developer. I'm willing to learn, teach, share my expertise and knowledge and contribute to the *Dev* community. 
 
 
 ### More about me:
