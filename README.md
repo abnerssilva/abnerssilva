@@ -22,3 +22,4 @@ Conheça-me:
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/abnerssilva)](https://github.com/abnerssilva) 
 
+--> *Inspired in* [Ana Julia Bittencourt](https://github.com/anajuliabit)
