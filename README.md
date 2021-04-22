@@ -9,8 +9,8 @@ Me chamo __Abner__, tenho 36 anos, sou casado, sem filhos, cristão protestante,
 Sou um profissional multidisciplinar com carreira consolidada em Suporte a Equipamentos de Alta Complexidade, onde trabalhei por 19 anos em grandes multinacionais, e estou migrando para a carreira de Desenvolvedor com ênfase em desenvolvimento __*front-end*__ nesse início de carreira. Estou disposto a aprender, ensinar e contribuir com a comunidade *Dev*.
 
 Conheça-me:
-- :nerd_face:  Estou em busca da minha primeira oportunidade como *Dev*.
-- :school:  Engenheiro de Produção formado (UNIGRANRIO/2014) e estudante de Análise e Desenvolvimento de Sistemas na ESTÁCIO.
+- :nerd_face: -> Estou em busca da minha primeira oportunidade como *Dev*.
+- :school: -> Engenheiro de Produção formado (UNIGRANRIO/2014) e estudante de Análise e Desenvolvimento de Sistemas na ESTÁCIO.
 - 💬  Perguntas???? [clique aqui](https://github.com/abnerssilva/abnerssilva/issues)
 <br/>
 
