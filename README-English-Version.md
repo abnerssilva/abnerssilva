@@ -6,7 +6,7 @@
 
 I'm __Abner__, 36 years old, married, no kids, believer christian, non smoker and I'm a musician as a hobby.
 
-I'm a multitask professional with a solid career in High complexity Equipment support. I've worked about 19 years over in huge multinationals companies, and now I'll turn my career around to Front-end Developer in this beginning (In the future, I'll work as Full Stack Developer). I'm willing to learn, to teach and contribute with the *Dev* comunity. 
+I'm a multitask professional with a solid career in support of Highly complex Equipment. I've worked about 19 years over in huge multinational companies, and now I'll turn my career around to Front-end Developer in this beginning (In the future, I'll work as Full Stack Developer). I'm willing to learn, to teach and contribute with the *Dev* comunity. 
 
 
 ### More about me:
