@@ -6,14 +6,14 @@
 
 My name is __Abner__, I'm 36 years old, I'm married, I have no kids, I'm christian, non smoker and music is my hobby.
 
-I'm a multi-tasking professional with solid career in Highly complex Equipment service support. I've worked for great multinational companies over the last 19 years, and now I'm pivoting my career to Developer. As the first step, I'm focusing as Front-end development, and, in the near future I'd like to work as a Full Stack Developer. I'm willing to learn, teach and contribute with the *Dev* community. 
+I'm a multi-tasking professional with solid career in Highly complex Equipment service support. I've worked for great multinational companies over the last 19 years, and now I'm pivoting my career to Developer. As the first step, I'm focusing in the Front-end development, however afterwards, in the near future, I'd like to work as a Full Stack Developer. I'm willing to learn, teach, share my expertise and knowledge and contribute with the *Dev* community. 
 
 
 ### More about me:
 - :nerd_face: -> I'm looking for my first job opportunity as a *Dev*;
 - :construction_worker_man: -> Bachelor's Degree in Production Engineering (UNIGRANRIO/2014);
 - :technologist: -> Systems Development student at ESTÁCIO;
-- :muscle: -> Advanced in English and Spanish.
+- :muscle: -> Advanced skills in English and Spanish.
 - 💬  Do you have any questions???? [click here](https://github.com/abnerssilva/abnerssilva/issues)
 <br/>
 
