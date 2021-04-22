@@ -4,6 +4,8 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/abner.s.silva/)](https://www.instagram.com/abner.s.silva/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:silva.s.abner@gmail.com)](mailto:silva.s.abner@gmail.com)
 
+*English Version:* :point_right: [click here](https://github.com/abnerssilva/abnerssilva/blob/main/README-English-Version.md)
+
 Me chamo __Abner__, tenho 36 anos, sou casado, sem filhos, cristão protestante, não fumante e tenho a música como hobby.
 
 Sou um profissional multidisciplinar com carreira consolidada em Suporte a Equipamentos de Alta Complexidade, onde trabalhei por 19 anos em grandes multinacionais, e estou migrando para a carreira de Desenvolvedor com ênfase em desenvolvimento __*front-end*__ nesse início de carreira. Estou disposto a aprender, ensinar e contribuir com a comunidade *Dev*.
