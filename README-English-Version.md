@@ -10,7 +10,7 @@ I'm a multi-tasking professional with solid career in Highly complex Equipment s
 
 
 ### More about me:
-- :nerd_face: -> I'm looking for my first job opportunity as a *Dev*;
+- :nerd_face: -> Front-end Developer Intern at PIB Curitiba;
 - :construction_worker_man: -> Bachelor's Degree in Production Engineering (UNIGRANRIO/2014);
 - :technologist: -> Systems Development student at ESTÁCIO;
 - :muscle: -> Advanced skills in English and Spanish.
