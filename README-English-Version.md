@@ -10,6 +10,7 @@ I'm a multi-tasking professional with solid career in Highly complex Equipment s
 
 
 ### More about me:
+- :nerd_face: -> Software Quality Intern at Alta Rail Technology;
 - :nerd_face: -> Full Stack Developer Intern at PIB Curitiba;
 - :construction_worker_man: -> Bachelor's Degree in Production Engineering (UNIGRANRIO/2014);
 - :technologist: -> Systems Development student at ESTÁCIO;
