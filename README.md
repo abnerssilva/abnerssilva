@@ -11,6 +11,7 @@ Me chamo __Abner__, tenho 36 anos, sou casado, sem filhos, cristão protestante,
 Sou um profissional multidisciplinar com carreira consolidada em Suporte a Equipamentos de Alta Complexidade, onde trabalhei por 19 anos em grandes multinacionais, e estou migrando para a carreira de Desenvolvedor. Como primeiro passo, estou focando no desenvolvimento __*front-end*__ nesse início de carreira, porém, num futuro próximo, gostaria de atuar como Desenvolvedor Full Stack. Estou disposto a aprender, ensinar, compartilhar experiências e conhecimento e contribuir com a comunidade *Dev*.
 
 ### Conheça-me:
+- :nerd_face: -> Estagiário de Qualidade de Software na Alta Rail Technology;
 - :nerd_face: -> Estagiário de desenvolvimento Full Stack na Primeira Igreja Batista de Curitiba;
 - :construction_worker_man: -> Engenheiro de Produção formado (UNIGRANRIO/2014);
 - :technologist: -> Estudante de Análise e Desenvolvimento de Sistemas na ESTÁCIO;
