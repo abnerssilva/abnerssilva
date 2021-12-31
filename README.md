@@ -6,7 +6,7 @@
 
 *English Version:* :point_right: [click here](https://github.com/abnerssilva/abnerssilva/blob/main/README-English-Version.md)
 
-Me chamo __Abner__, tenho 36 anos, sou casado, sem filhos, cristão protestante, não fumante e tenho a música como hobby.
+Me chamo __Abner__, tenho 37 anos, sou casado, sem filhos, cristão protestante, não fumante e tenho a música como hobby.
 
 Sou um profissional multidisciplinar com carreira consolidada em Suporte a Equipamentos de Alta Complexidade, onde trabalhei por 19 anos em grandes multinacionais, e estou migrando para a carreira de Desenvolvedor. Como primeiro passo, estou focando no desenvolvimento __*back-end*__ nesse início de carreira, porém, num futuro próximo, gostaria de atuar como Desenvolvedor Full Stack. Estou disposto a aprender, ensinar, compartilhar experiências e conhecimento e contribuir com a comunidade *Dev*.
 
