@@ -8,10 +8,10 @@
 
 Me chamo __Abner__, tenho 37 anos, sou casado, sem filhos, cristão protestante, não fumante e tenho a música como hobby.
 
-Sou um profissional multidisciplinar com carreira consolidada em Suporte a Equipamentos de Alta Complexidade, onde trabalhei por 19 anos em grandes multinacionais, e estou migrando para a carreira de Desenvolvedor. Como primeiro passo, estou focando no desenvolvimento __*back-end*__ nesse início de carreira, porém, num futuro próximo, gostaria de atuar como Desenvolvedor Full Stack. Estou disposto a aprender, ensinar, compartilhar experiências e conhecimento e contribuir com a comunidade *Dev*.
+Sou um profissional multidisciplinar com carreira consolidada em Suporte a Equipamentos de Alta Complexidade, onde trabalhei por 19 anos em grandes multinacionais, e migrei para a carreira de Desenvolvedor em 2021. Como primeiro passo, foquei no desenvolvimento __*back-end*__ no início de carreira, porém, hoje atu0 como Desenvolvedor Full Stack. Estou disposto a aprender, ensinar, compartilhar experiências e conhecimento e contribuir com a comunidade *Dev*.
 
 ### Conheça-me:
-- :nerd_face: -> Engenheiro de Software Full Stack na ROITBANK;
+- :nerd_face: -> Desenvolvedor Full Stack na Compass.Uol;
 - :construction_worker_man: -> Engenheiro de Produção formado (UNIGRANRIO/2014);
 - :technologist: -> Estudante de Análise e Desenvolvimento de Sistemas na ESTÁCIO;
 - :muscle: -> Inglês e Espanhol avançados.
